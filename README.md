@@ -3,7 +3,7 @@ I am currently interning as a Software Developer, working with PHP and CodeIgnit
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxish_911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saish-naik-731801119) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishnaik9901@gmail.com) [![website]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxish_911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saish-naik-731801119) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishnaik9901@gmail.com) [
 (🌐)](https://saishnaikdev.netlify.app/)
 
 
